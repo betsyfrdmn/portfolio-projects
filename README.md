@@ -1,6 +1,6 @@
 # portfolio-projects
 
-Hi! I'm Betsy, and I hold a **B.A. in Economics** and a **B.S. in Applied Mathematics and Statistics**. This repository showcases my work applying machine learning, statistical modeling, and econometric techniques to real-world problems in health, behavior, and markets.
+Hi! I'm Betsy, and I hold a **B.A. in Economics** and a **B.S. in Applied Mathematics and Statistics**. This repository showcases my work applying machine learning, statistical modeling, and econometric techniques to real-world problems in health, behavior, and markets. I am currently seeking full-time employment. If you're hiring or collaborating on something exciting — feel free to connect!
 
 I use **Python**, **R**, and **Excel** to explore and analyze complex datasets. My work spans:
 - Predictive modeling
@@ -14,24 +14,24 @@ I use **Python**, **R**, and **Excel** to explore and analyze complex datasets. 
 I’m especially interested in projects that combine economic insight with technical tools to support data-driven decision-making.
 
 
-## 📁 Project Highlights
+## Project Highlights
 
-### 🧠 Machine Learning (Python)
+### Machine Learning (Python)
 - **Obesity Prediction with ML**: Compared various models (logistic regression, decision trees, neural networks) to predict obesity risk.
 - **Best Activation Functions for NNs**: Tested ReLU, tanh, sigmoid, etc., to evaluate model performance in classification tasks.
 - **Gradient Descent Prediction**: Applied custom gradient descent for sequence forecasting.
 
-### 📊 Econometrics & Data Analysis (R)
+### Econometrics & Data Analysis (R)
 - **Market Power & Marginal Cost Estimation**: Used structural econometrics to analyze competition in the automotive market.
 - **Production Function Analysis**: Estimated firm-level output response to inputs using flexible functional forms.
 - **Gene-Environment Interactions**: Modeled regression effects of genetic and environmental variables on outcomes.
 
-### 📉 Excel Modeling
+### Excel Modeling
 - **Multiple Regression Analysis**: Built models for real-world datasets to evaluate multivariate relationships.
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 - **Languages**: Python, R, Excel, Markdown, LaTeX, SQL
 - **Techniques**: Regression analysis, machine learning, econometrics, optimization, data visualization
@@ -39,19 +39,15 @@ I’m especially interested in projects that combine economic insight with techn
 
 ---
 
-## 💼 Career Interests
+## Accomplishments
 
-I'm currently seeking **full-time roles** in:
-- Data Science / Analytics
-- Applied Machine Learning
-- Economic Research
-- Public Policy Analysis
-
-If you're hiring or collaborating on something exciting — feel free to connect!
+- Dean's List Recipient Every Semester
+- Stony Brook Math Club Competition Winner
+- Participated and won in many math competitions in middle school including Pi5NY, Math Olympiad, and more
 
 ---
 
-## 📫 Contact
+## Contact
 
 - 📧 Email: betsyfrdmn@gmail.com 
 - 🔗 LinkedIn: http://www.linkedin.com/in/elizabeth-fridman-8a3658258
